@@ -1,0 +1,4 @@
+azure_storage_connectionstring: 'DefaultEndpointsProtocol=https;AccountName=mashups;AccountKey=b1o2WbRLU1fyBPNUdUAH7usYrBINuw2WzfxFaOzq9/egfDG1t1+GYV2QdCQXBFoK4Tpg5ZIWtL6BKKpbviGg4A==;EndpointSuffix=core.windows.net'
+songs_container_name: 'mashups/songs'
+mixed_container_name: 'mashups/mixed_songs'
+source_folder: 'C:\Users\aleks\Pulpit\mashup_generator\songs'
